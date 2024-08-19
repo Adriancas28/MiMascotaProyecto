@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("progra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594e66b08cb44beed02f61c180cc931791410b81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6adfd6097e095a855e10241cf4c0206cea70e816")]
 [assembly: System.Reflection.AssemblyProductAttribute("progra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("progra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
